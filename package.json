@@ -1,0 +1,22 @@
+{
+  "name": "nodejsfilesystem",
+  "version": "1.0.0",
+  "description": "nodejs_filesystem",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Santhosh",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "nodemon": "^3.1.4",
+    "path": "^0.12.7"
+  }
+}
